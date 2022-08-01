@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288836541957",
+    "project_id": "dharmshala-admin-e3ba9",
+    "storage_bucket": "dharmshala-admin-e3ba9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288836541957:android:bb513d0392398ea2c1066c",
+        "android_client_info": {
+          "package_name": "com.example.dharmshalaowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288836541957-3rdg23ous5r23u44sjvo46cui5o9mkgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dharmshalaowner",
+            "certificate_hash": "e709d04b81d5282700af2d951e622053b08efbed"
+          }
+        },
+        {
+          "client_id": "288836541957-9qsjfu3qb7fgfnc8vd63l8qqpb9a7p8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1lVWKs1P7XT63A3ISQgRvv7kQJDm5MrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288836541957-9qsjfu3qb7fgfnc8vd63l8qqpb9a7p8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
