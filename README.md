@@ -1,6 +1,7 @@
 # Dharamshala App
 
 This a kind of dummy Hotel Booking App.
+Following are the screenshots of App Working.
 
 ![image](https://user-images.githubusercontent.com/60999761/182290983-1fdb8b92-5a52-48de-991b-ec1068a28172.png)
 ![image](https://user-images.githubusercontent.com/60999761/182290992-efbfffd7-b612-4ff1-a1a2-ad5f43bbdc43.png)
